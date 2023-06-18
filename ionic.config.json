@@ -1,0 +1,7 @@
+{
+  "name": "chatWave",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
